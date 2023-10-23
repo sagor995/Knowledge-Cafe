@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "cover": "https://i.ibb.co/vDDVNd3/1.jpg",
+    "title": "Lorem Ipsum Dolor Sit Amet",
+    "author_img": "https://i.ibb.co/crC5ZkJ/boy1.png",
+    "author_name": "John Doe",
+    "posted_date": "2023-10-23",
+    "reading_time": 10,
+    "hashtags": ["technology", "programming", "artificialintelligence"]
+  },
+  {
+    "id": 2,
+    "cover": "https://i.ibb.co/vPCk1D4/2.png",
+    "title": "Consectetur Adipiscing Elit",
+    "author_img": "https://i.ibb.co/K94ZTMq/girl1.jpg",
+    "author_name": "Jane Smith",
+    "posted_date": "2023-10-22",
+    "reading_time": 8,
+    "hashtags": ["science", "research", "discovery"]
+  },
+  {
+    "id": 3,
+    "cover": "https://i.ibb.co/SBp0ZFM/3.png",
+    "title": "Sed Do Eiusmod Tempor",
+    "author_img": "https://i.ibb.co/cCB4yth/boy2.jpg",
+    "author_name": "David Johnson",
+    "posted_date": "2023-10-21",
+    "reading_time": 12,
+    "hashtags": ["travel", "adventure", "photography"]
+  },
+  {
+    "id": 4,
+    "cover": "https://i.ibb.co/f4xn7bf/4.jpg",
+    "title": "Incididunt Ut Labore Et Dolore",
+    "author_img": "https://i.ibb.co/crC5ZkJ/boy1.png",
+    "author_name": "Emily Davis",
+    "posted_date": "2023-10-20",
+    "reading_time": 6,
+    "hashtags": ["food", "cooking", "recipes"]
+  },
+  {
+    "id": 5,
+    "cover": "https://i.ibb.co/QYf4s1w/5863862.jpg",
+    "title": "Magna Aliqua Ut Enim Ad Minim",
+    "author_img": "https://i.ibb.co/fMwZdQD/girl2.jpg",
+    "author_name": "Michael Wilson",
+    "posted_date": "2023-10-19",
+    "reading_time": 15,
+    "hashtags": ["health", "fitness", "wellness"]
+  }
+]
